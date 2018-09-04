@@ -9,6 +9,9 @@ public class TESTCLASS {
 		System.out.println("Hello");
 		System.out.println("Making changes in New Branch");
 		System.out.println("Editng in the new branch");
+		System.out.println("Adding new");
+		System.out.println("Adding only TestBranch");
+		System.out.println("Adding only TestBranch2");
 
 	}
 
